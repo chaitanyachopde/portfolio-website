@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#87CEEB"/>
+  
+  <!-- Clouds -->
+  <g opacity="0.7">
+    <circle cx="50" cy="50" r="15" fill="#fff"/>
+    <circle cx="70" cy="45" r="20" fill="#fff"/>
+    <circle cx="90" cy="50" r="15" fill="#fff"/>
+    
+    <circle cx="300" cy="40" r="12" fill="#fff"/>
+    <circle cx="315" cy="35" r="16" fill="#fff"/>
+    <circle cx="330" cy="40" r="12" fill="#fff"/>
+  </g>
+  
+  <!-- Dashboard Container -->
+  <rect x="20" y="70" width="360" height="210" rx="10" fill="#fff" stroke="#dee2e6" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="20" y="70" width="360" height="50" rx="10" fill="#2c3e50"/>
+  <rect x="20" y="110" width="360" height="10" fill="#2c3e50"/>
+  
+  <!-- App Title -->
+  <text x="40" y="95" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">WeatherPro Dashboard</text>
+  <text x="40" y="110" font-family="Arial, sans-serif" font-size="11" fill="#ecf0f1">Real-time Weather Analytics</text>
+  
+  <!-- Search Bar -->
+  <rect x="250" y="85" width="100" height="25" rx="12" fill="#34495e"/>
+  <text x="260" y="100" font-family="Arial, sans-serif" font-size="11" fill="#bdc3c7">Search location...</text>
+  
+  <!-- Current Weather Card -->
+  <rect x="40" y="130" width="150" height="80" rx="8" fill="#3498db"/>
+  <text x="50" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">New York, NY</text>
+  <text x="50" y="170" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#fff">22°C</text>
+  <text x="50" y="190" font-family="Arial, sans-serif" font-size="12" fill="#ecf0f1">Partly Cloudy</text>
+  
+  <!-- Weather Icon -->
+  <g transform="translate(140, 140)">
+    <circle cx="20" cy="20" r="12" fill="#f39c12"/>
+    <path d="M20 5 L20 10 M35 20 L30 20 M30 8 L27 11 M30 32 L27 29 M20 35 L20 30 M5 20 L10 20 M10 8 L13 11 M10 32 L13 29" stroke="#f39c12" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="25" cy="30" r="8" fill="#ecf0f1" opacity="0.8"/>
+    <circle cx="35" cy="35" r="6" fill="#ecf0f1" opacity="0.8"/>
+  </g>
+  
+  <!-- Weather Details -->
+  <rect x="210" y="130" width="80" height="80" rx="8" fill="#e74c3c"/>
+  <text x="220" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#fff">Humidity</text>
+  <text x="220" y="170" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#fff">65%</text>
+  <text x="220" y="190" font-family="Arial, sans-serif" font-size="11" fill="#fff">Wind: 12 km/h</text>
+  
+  <rect x="300" y="130" width="70" height="80" rx="8" fill="#27ae60"/>
+  <text x="310" y="150" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#fff">Pressure</text>
+  <text x="310" y="170" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#fff">1013 hPa</text>
+  <text x="310" y="190" font-family="Arial, sans-serif" font-size="11" fill="#fff">Stable</text>
+  
+  <!-- 7-Day Forecast -->
+  <rect x="40" y="220" width="330" height="50" rx="5" fill="#f8f9fa"/>
+  <text x="50" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2c3e50">7-Day Forecast</text>
+  
+  <!-- Forecast Days -->
+  <g transform="translate(50, 245)">
+    <rect x="0" y="0" width="40" height="20" fill="#3498db" opacity="0.2"/>
+    <text x="20" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Mon 18°</text>
+    
+    <rect x="45" y="0" width="40" height="20" fill="#e74c3c" opacity="0.2"/>
+    <text x="65" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Tue 24°</text>
+    
+    <rect x="90" y="0" width="40" height="20" fill="#f39c12" opacity="0.2"/>
+    <text x="110" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Wed 21°</text>
+    
+    <rect x="135" y="0" width="40" height="20" fill="#27ae60" opacity="0.2"/>
+    <text x="155" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Thu 19°</text>
+    
+    <rect x="180" y="0" width="40" height="20" fill="#9b59b6" opacity="0.2"/>
+    <text x="200" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Fri 23°</text>
+    
+    <rect x="225" y="0" width="40" height="20" fill="#e67e22" opacity="0.2"/>
+    <text x="245" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Sat 26°</text>
+    
+    <rect x="270" y="0" width="40" height="20" fill="#1abc9c" opacity="0.2"/>
+    <text x="290" y="12" font-family="Arial, sans-serif" font-size="9" fill="#2c3e50" text-anchor="middle">Sun 25°</text>
+  </g>
+  
+  <!-- Chart Area -->
+  <g transform="translate(50, 280)">
+    <!-- Chart background -->
+    <rect x="0" y="-15" width="300" height="15" fill="#ecf0f1" opacity="0.5"/>
+    
+    <!-- Temperature curve -->
+    <path d="M0 -5 Q50 -12 100 -8 Q150 -10 200 -6 Q250 -4 300 -7" 
+          fill="none" stroke="#e74c3c" stroke-width="2"/>
+    
+    <!-- Data points -->
+    <circle cx="0" cy="-5" r="2" fill="#e74c3c"/>
+    <circle cx="50" cy="-12" r="2" fill="#e74c3c"/>
+    <circle cx="100" cy="-8" r="2" fill="#e74c3c"/>
+    <circle cx="150" cy="-10" r="2" fill="#e74c3c"/>
+    <circle cx="200" cy="-6" r="2" fill="#e74c3c"/>
+    <circle cx="250" cy="-4" r="2" fill="#e74c3c"/>
+    <circle cx="300" cy="-7" r="2" fill="#e74c3c"/>
+  </g>
+  
+  <!-- Weather Icons -->
+  <g transform="translate(350, 85)">
+    <!-- Sun -->
+    <circle cx="0" cy="0" r="6" fill="#f39c12"/>
+    <path d="M0 -12 L0 -8 M10 0 L6 0 M7 -7 L5 -5 M7 7 L5 5 M0 12 L0 8 M-10 0 L-6 0 M-7 -7 L-5 -5 M-7 7 L-5 5" stroke="#f39c12" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Location Pin -->
+  <g transform="translate(360, 95)">
+    <path d="M0 0 C-3 -5 3 -5 0 0 C0 0 0 2 0 2 Z" fill="#e74c3c"/>
+    <circle cx="0" cy="-3" r="2" fill="#fff"/>
+  </g>
+</svg>

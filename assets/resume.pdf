@@ -1,0 +1,193 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 16 Tf
+50 750 Td
+(JOHN DOE) Tj
+0 -20 Td
+/F2 12 Tf
+(Frontend Developer) Tj
+0 -40 Td
+(Email: john.doe@example.com) Tj
+0 -15 Td
+(Phone: +1 (555) 123-4567) Tj
+0 -15 Td
+(Location: New York, NY) Tj
+0 -15 Td
+(GitHub: github.com/johndoe) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/johndoe) Tj
+
+0 -40 Td
+/F1 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F2 11 Tf
+(Passionate frontend developer with 3+ years of experience creating) Tj
+0 -15 Td
+(engaging and intuitive web experiences. Specialized in modern) Tj
+0 -15 Td
+(JavaScript frameworks with a keen eye for design and user experience.) Tj
+
+0 -30 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F2 11 Tf
+(Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript) Tj
+0 -15 Td
+(Frameworks: React.js, Vue.js, Angular, Node.js) Tj
+0 -15 Td
+(Tools: Git, Webpack, Vite, Docker, VS Code) Tj
+0 -15 Td
+(Design: Figma, Adobe XD, Photoshop) Tj
+0 -15 Td
+(CSS: Bootstrap, Tailwind CSS, Sass, Material-UI) Tj
+
+0 -30 Td
+/F1 14 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+0 -20 Td
+/F1 12 Tf
+(Senior Frontend Developer) Tj
+0 -15 Td
+/F2 11 Tf
+(Tech Solutions Inc. | 2022 - Present) Tj
+0 -15 Td
+(• Leading frontend development team of 5 developers) Tj
+0 -15 Td
+(• Architecting scalable React applications serving 100K+ users) Tj
+0 -15 Td
+(• Implementing modern development practices and CI/CD pipelines) Tj
+0 -15 Td
+(• Mentoring junior developers and conducting code reviews) Tj
+
+0 -25 Td
+/F1 12 Tf
+(Frontend Developer) Tj
+0 -15 Td
+/F2 11 Tf
+(Digital Agency Pro | 2021 - 2022) Tj
+0 -15 Td
+(• Developed responsive websites using React and Vue.js) Tj
+0 -15 Td
+(• Collaborated with designers to implement pixel-perfect UIs) Tj
+0 -15 Td
+(• Optimized applications for maximum speed and scalability) Tj
+0 -15 Td
+(• Integrated third-party APIs and payment gateways) Tj
+
+0 -25 Td
+/F1 12 Tf
+(Junior Web Developer) Tj
+0 -15 Td
+/F2 11 Tf
+(StartUp Hub | 2020 - 2021) Tj
+0 -15 Td
+(• Built web applications using HTML, CSS, and JavaScript) Tj
+0 -15 Td
+(• Assisted in full-stack development projects) Tj
+0 -15 Td
+(• Participated in agile development processes) Tj
+0 -15 Td
+(• Gained experience in database design and API development) Tj
+
+0 -30 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F1 12 Tf
+(Bachelor of Computer Science) Tj
+0 -15 Td
+/F2 11 Tf
+(University of Technology | 2018 - 2022) Tj
+0 -15 Td
+(Graduated with Honors, GPA: 3.8/4.0) Tj
+0 -15 Td
+(Relevant Coursework: Web Development, Database Systems,) Tj
+0 -15 Td
+(Software Engineering, Human-Computer Interaction) Tj
+
+0 -30 Td
+/F1 14 Tf
+(CERTIFICATIONS) Tj
+0 -20 Td
+/F2 11 Tf
+(• React Developer Certification - Meta (2023)) Tj
+0 -15 Td
+(• JavaScript Algorithms and Data Structures - freeCodeCamp (2022)) Tj
+0 -15 Td
+(• Responsive Web Design - freeCodeCamp (2021)) Tj
+0 -15 Td
+(• AWS Certified Cloud Practitioner (2023)) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000284 00000 n 
+0000002336 00000 n 
+0000002404 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+2468
+%%EOF

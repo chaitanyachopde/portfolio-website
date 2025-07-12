@@ -1,0 +1,98 @@
+uild a fully responsive, modern, and animated portfolio website using only front-end technologies like HTML, CSS, JavaScript, and optional frameworks/libraries like Bootstrap, Tailwind CSS, GSAP, AOS, or Framer Motion.
+
+Do NOT include:
+
+Testimonials section
+
+Services section
+
+Any backend functionality or server-side integration
+
+✅ Website Features:
+Fully responsive layout for mobile, tablet, and desktop
+
+Preloader animation before content loads
+
+Smooth scrolling and animated transitions between sections
+
+Sticky navigation bar with scrollspy and animated hover effects
+
+Light/Dark mode toggle (stored using localStorage)
+
+Scroll-to-top button with fade-in/out
+
+Clean and semantic HTML structure
+
+🧩 Sections to Include:
+Hero Section
+
+Full-screen introduction with name, role/title (e.g., Frontend Developer)
+
+Animated text using GSAP or typing effect (e.g., Typed.js)
+
+Call-to-action buttons (e.g., “Download Resume”, “Contact Me”)
+
+Optional animated background (e.g., particles.js or video)
+
+About Me
+
+Short personal bio
+
+Profile image with hover/entrance animation
+
+Animated skill progress bars or chips (HTML, CSS, JS, React, etc.)
+
+Portfolio / Projects
+
+Responsive project grid (6–8 items)
+
+Each card has image, project name, short description
+
+Buttons for GitHub and Live Demo
+
+Modal view or hover animation for more details
+
+Resume
+
+Timeline for education and experience
+
+Icons and animations for each item
+
+“Download Resume” button (PDF)
+
+Contact
+
+Static contact form with fields (Name, Email, Message)
+
+No backend – just UI design with validation using JavaScript
+
+Social media icons with links
+
+Optional embedded map or animation
+
+Footer
+
+Social links, navigation links, and copyright
+
+Optionally include animated background or wave effect
+
+🌐 Technologies You Can Use (Choose Any Front-End Only):
+HTML5, CSS3, JavaScript (ES6+)
+
+Bootstrap 5 or Tailwind CSS
+
+GSAP, AOS, Lottie, or Framer Motion for animation
+
+Font Awesome or Heroicons for icons
+
+Particles.js, Typed.js (optional for visual/typing effects)
+
+No backend, no database, no server integration
+
+Let me know if you'd like me to generate the code based on this prompt using a specific tech stack like:
+
+💡 HTML + CSS + JS + Bootstrap + AOS
+
+💡 React + Tailwind CSS + Framer Motion
+
+💡 Vue + GSAP

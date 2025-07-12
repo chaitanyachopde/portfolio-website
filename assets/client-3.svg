@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+  
+  <!-- Face -->
+  <circle cx="50" cy="35" r="15" fill="#fdbcb4"/>
+  
+  <!-- Hair -->
+  <path d="M35 25 Q50 18 65 25 Q68 28 65 32 Q60 28 55 26 Q50 24 45 26 Q40 28 35 32 Q32 28 35 25" fill="#795548"/>
+  
+  <!-- Eyes -->
+  <circle cx="45" cy="32" r="2" fill="#333"/>
+  <circle cx="55" cy="32" r="2" fill="#333"/>
+  <circle cx="46" cy="31" r="0.5" fill="#fff"/>
+  <circle cx="56" cy="31" r="0.5" fill="#fff"/>
+  
+  <!-- Nose -->
+  <ellipse cx="50" cy="37" rx="1" ry="2" fill="#f4a28c"/>
+  
+  <!-- Smile -->
+  <path d="M46 40 Q50 44 54 40" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- Body -->
+  <path d="M35 50 Q50 45 65 50 L68 85 L32 85 Z" fill="#ff9800"/>
+  
+  <!-- Collar -->
+  <path d="M42 50 Q50 55 58 50 L58 60 L42 60 Z" fill="#f57c00"/>
+  
+  <!-- Professional Badge -->
+  <rect x="34" y="70" width="32" height="8" rx="2" fill="#fff"/>
+  <text x="50" y="76" font-family="Arial, sans-serif" font-size="4" fill="#ff9800" text-anchor="middle">CREATIVE DIR</text>
+</svg>
